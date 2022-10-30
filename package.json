@@ -9,6 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "@supabase/auth-helpers-nextjs": "^0.4.2",
+    "@supabase/auth-helpers-react": "^0.3.1",
+    "@supabase/auth-ui-react": "^0.2.3",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
